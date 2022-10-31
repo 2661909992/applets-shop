@@ -1,0 +1,1 @@
+<view><view class="address-choose-box"><button class="btnChooseAddress" type="primary" size="mini">请选择收货地址+</button></view><image class="address-border" src="/static/cart_border@2x.png"></image></view>
